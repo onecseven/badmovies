@@ -13,7 +13,7 @@ Learn the fundamentals of application structure and database integration by maki
 
 [x] User should be able to click on a movie within the search results in order to save it to their favorites (mySQL database, you must make your own Schema)
 
-[x] If a user is viewing their favorites they should be able to delete a movie from their favorites by clicking on it
+[xç] If a user is viewing their favorites they should be able to delete a movie from their favorites by clicking on it
 
 ### The API for the application:
 
